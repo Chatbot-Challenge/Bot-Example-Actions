@@ -1,0 +1,12 @@
+{
+    "escape_room_name": "Lokal Demo",
+    "chatbot_name": "local-bot",
+    "user_name": "Oha Oha Oha",
+    "messagebox_caption": "hmmm?...",
+    "send_button_caption": "oha?",
+    "user_name": "you",
+    "id": "lokal",
+    "background-image": "local-bot-background-image.jpg",
+    "api_url": "http://localhost:5005",
+    "welcome-message": "does it wörk?"
+}
